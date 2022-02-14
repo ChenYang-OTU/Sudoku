@@ -1,0 +1,50 @@
+#board{
+    border-collapse: collapse;
+}
+#board tbody{
+    border: solid medium;
+}
+#board colgroup{
+    border: solid medium;
+}
+#board td{
+    border: solid thin;
+    font-size: 200%;
+    height: 1.4em;
+    width: 1.4em;
+    text-align: center;
+    padding: 0;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+#board td:hover{
+    background-color: #f5dd90;
+}
+
+#palette{
+    border-collapse: collapse;
+}
+#palette td{
+    border: solid thin;
+    font-size: 200%;
+    height: 1.4em;
+    width: 1.4em;
+    text-align: center;
+    padding: 0;
+}
+.navbar-brand{
+    font-size: 150%;
+}
+
+
+#timeline colgroup{
+    border: solid medium;
+}
+#timeline tbody{
+    border: solid medium;
+}
+#timeline td{
+    border: 0ch;
+}
