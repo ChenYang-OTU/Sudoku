@@ -93,13 +93,13 @@ $(document).ready(function(){
                 let id_2 = '' + x + y;
 
                 if (input == check_board[x][y]&& (!(id_1==id_2))){
-                    if (sameBlock(row, col, x, y)){
+                    if (sameBlock(row, col, y, x)){
                         truth1 = false;
                     }
-                    if (sameRow(row, col, x, y)){
+                    if (sameRow(row, col, y, x)){
                         truth2 = false;
                     }
-                    if (samaeColumn(row, col, x, y)){
+                    if (samaeColumn(row, col, y, x)){
                         truth3 = false;
                     }
                 }

@@ -1,0 +1,19 @@
+#spreadsheet{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#spreadsheet td, th{
+    border: 1px solid black;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+}
+
+.selected{
+    background-color: #e0e0ff;
+}
+
+.header{
+    background-color: #d0d0d0;
+}
