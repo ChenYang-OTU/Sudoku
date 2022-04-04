@@ -20,6 +20,7 @@ $(document).ready(function(){
         let b = $('tr:nth-child('+(index)+')')
         data = [];
         let temp = b.text().split("   ")
+        console.log(temp)
             for(let i = 0; i < temp.length; i++){
                 if(temp[i]!= "" && temp[i]!= "\n"){
                     data.push(temp[i])
