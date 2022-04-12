@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="/style.css">
+    <title>lab08</title>
+</head>
+<body>
+    <!-- <div id="MovieDiv">
+        <h2>Movie Location</h2>
+        <form id = "MovieForm">
+            <label for="MovieLocation">Location</label>
+            <select id = "MovieLocation">
+                <option value = "Oshawa Cinemas">Oshawa Cinemas</option>
+                <option value = "Toronto Cinemas">Toronto Cinemas</option>
+            </select>
+            <button>Search</button>
+        </form>
+    </div>
+
+    <div id = "results"></div> -->
+<div class="container">
+    <div class = "header">
+        <h1>Showtimes</h1>
+        <h2>Give me Something to do!</h2>
+    </div>
+    <div id="MovieDiv">
+        <form id = "MovieForm">
+            <label for="MovieLocation">Location: </label>
+            <select id = "MovieLocation">
+                <option value = "Oshawa Cinemas">Oshawa Cinemas</option>
+                <option value = "Toronto Cinemas">Toronto Cinemas</option>
+                <option value = "Vancouver Cinemas">Vancouver Cinemas</option>
+            </select>
+            <br/>
+            <br/>
+            <label for="datepicker">Date: </label>
+            <input type="text" id="datepicker">
+            <br /><br />
+            <button>Search</button>
+        </form>
+        
+        <div id = "results">
+        </div>
+    </div>
+    <div id="rightForm">     
+    </div>
+</div>
+
+   
+    <script src = "https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+    <script src = "index.js"></script>
+</body>
+</html>

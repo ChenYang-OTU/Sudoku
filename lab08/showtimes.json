@@ -1,0 +1,118 @@
+[
+    {
+        "id": "tt0059742",
+        "title": "The Sound of Music",
+        "location": "Oshawa Cinemas",
+        "date": "04/01/2022",
+        "times": [
+            "7:15pm",
+            "8:40pm"
+        ]
+    },
+    {
+        "id": "tt0059113",
+        "title": "Doctor Zhivago",
+        "location": "Oshawa Cinemas",
+        "date": "04/01/2022",
+        "times": [
+            "7:35pm",
+            "8:10pm",
+            "9:05pm"
+        ]
+    },
+    {
+        "id": "tt0059243",
+        "title": "The Great Race",
+        "location": "Oshawa Cinemas",
+        "date": "04/01/2022",
+        "times": [
+            "6:45pm",
+            "9:15pm"
+        ]
+    },
+    {
+        "id": "tt0059578",
+        "title": "For a Few Dollars More",
+        "location": "Oshawa Cinemas",
+        "date": "04/01/2022",
+        "times": [
+            "8:05pm",
+            "9:40pm"
+        ]
+    },
+    {
+        "id": "tt0059661",
+        "title": "The Rounders",
+        "location": "Oshawa Cinemas",
+        "date": "01/01/2021",
+        "times": [
+            "4:10pm"
+        ]
+    },
+    {
+        "id": "tt0059800",
+        "title": "Thunderball",
+        "location": "Oshawa Cinemas",
+        "date": "01/01/2021",
+        "times": [
+            "8:00pm"
+        ]
+    },
+    {
+        "id": "tt0067400",
+        "title": "It",
+        "location": "Toronto Cinemas",
+        "date": "04/01/2022",
+        "times": [
+            "8:45pm"
+        ]
+    },
+    {
+        "id": "tt0067401",
+        "title": "The Lost City",
+        "location": "Toronto Cinemas",
+        "date": "01/01/2021",
+        "times": [
+            "8:30pm",
+            "8:00pm"
+        ]
+    },
+    {
+        "id": "tt0067402",
+        "title": "Sonic the Hedgehog",
+        "location": "Toronto Cinemas",
+        "date": "04/01/2022",
+        "times": [
+            "7:00pm"
+        ]
+    },
+    {
+        "id": "tt0067411",
+        "title": "The Lost City",
+        "location": "Vancouver Cinemas",
+        "date": "04/01/2022",
+        "times": [
+            "5:00pm"
+        ]
+    },
+    {
+        "id": "tt0067412",
+        "title": "Doctor Strange",
+        "location": "Vancouver Cinemas",
+        "date": "04/01/2022",
+        "times": [
+            "5:15pm",
+            "9:40pm"
+        ]
+    },
+    {
+        "id": "tt0067413",
+        "title": "Doctor Strange",
+        "location": "Eternals",
+        "date": "01/01/2022",
+        "times": [
+            "5:00pm",
+            "9:30pm"
+        ]
+    }
+]

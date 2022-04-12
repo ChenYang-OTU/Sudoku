@@ -1,0 +1,52 @@
+.container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    gap: 2px 2px;
+    grid-template-areas:
+        "header header"
+        "left right";
+}
+.header{
+    max-height: 150px;
+    display: inline-block;
+    padding: 0.5rem;
+    font-family: Arial;
+    color: white;
+    text-align: left;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    gap: 0px 0px;
+    grid-template-areas:
+        ".";
+    grid-area: header;
+    background-color: pink;
+}
+
+tr {
+    font-family: Arial;
+    padding: 0;
+    width: 200px;
+    height: 50px;
+}
+button {
+    background-color: pink;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#MovieDiv{
+    font-family: Arial;
+}
+#rightForm{
+    font-family: Arial;
+}
+
+
